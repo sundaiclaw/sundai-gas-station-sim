@@ -22,4 +22,4 @@ A lightweight gas station simulator dashboard that uses AI to suggest pricing, s
 - No persistent saves or multi-day economy simulation yet.
 
 Build on Sundai Club on March 15, 2026  
-Sundai Project: TO_BE_FILLED
+Sundai Project: https://www.sundai.club/projects/2f396651-0f3c-4389-af79-90bae37481b2
